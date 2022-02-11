@@ -1,6 +1,5 @@
 import React from 'react';
 import EightBall from './EightBall';
-import PropTypes from 'prop-types';
 
 class Asker extends React.Component {
     constructor(props) {
